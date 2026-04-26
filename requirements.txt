@@ -2,7 +2,7 @@ fastapi
 uvicorn
 pydantic
 scikit-learn
-tensorflow-cpu
+tensorflow==2.15.0
 joblib
 requests
 streamlit
